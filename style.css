@@ -1,0 +1,25 @@
+ol {
+    list-style-type: upper-roman;
+  }
+  
+  div {
+    font-family: 'Montserrat', sans-serif;
+    width: 600px;
+  }
+  
+  h1 {
+    color: #ff6455;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  h2 {
+    color: #BF5DE4;  
+    font-family: 'Oswald', sans-serif;
+  }
+  .underlined {
+    text-decoration-line: underline;
+  }
+  
+  .pink {
+    color: #F07FDF;
+  }
